@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+index/
+docs/
+eval_questions.json

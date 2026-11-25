@@ -1,0 +1,12 @@
+[
+  {
+    "question": "Combien de jours de télétravail sont autorisés par semaine ?",
+    "expected_source": "politique_teletravail.pdf",
+    "expected_keywords": ["jours", "télétravail"]
+  },
+  {
+    "question": "Quelle est la procédure de remboursement des frais ?",
+    "expected_source": "notes_de_frais.md",
+    "expected_keywords": ["justificatif", "remboursement"]
+  }
+]
